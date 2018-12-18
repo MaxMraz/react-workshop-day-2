@@ -1,0 +1,11 @@
+.Headline {
+    text-align: center;
+    width: 100vw;
+}
+    .Headline__title {
+        font: 80px serif;
+    }
+
+    .Headline__subtitle {
+        line-height: 1.618;
+    }
